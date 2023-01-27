@@ -1,0 +1,6 @@
+TO Connect to the Web server just tape :
+
+go run Simple_TCP_Conn.go -host example.com -port 80
+go run TCP_Conn.go -host example.com -port 80
+
+and you will see the resutls
